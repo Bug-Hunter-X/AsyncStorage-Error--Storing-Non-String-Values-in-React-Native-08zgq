@@ -1,0 +1,1 @@
+This error occurs when using AsyncStorage in React Native and attempting to store a value that is not a string. AsyncStorage only supports storing strings.  Attempting to store other data types, like objects or numbers, will result in this error.  The error message itself isn't always clear and can sometimes manifest as a general storage error or an unexpected behavior.
